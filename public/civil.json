@@ -1,0 +1,112 @@
+[
+  {
+    "id": 110,
+    "name": "Dr. Ramesh Kumar",
+    "designation": "Head",
+    "email": "ramesh.kumar@civil.edu.in",
+    "phone": "+91-9876543210",
+    "gender": "Male",
+    "dob": "1980-01-10",
+    "joining_date": "2010-01-10",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ms. Priya Sharma",
+    "designation": "Professor",
+    "email": "priya.sharma@civil.edu.in",
+    "phone": "+91-9876543209",
+    "gender": "Female",
+    "dob": "1981-02-11",
+    "joining_date": "2011-02-11",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Mr. Arjun Mehta",
+    "designation": "Associate Professor",
+    "email": "arjun.mehta@civil.edu.in",
+    "phone": "+91-9876543208",
+    "gender": "Male",
+    "dob": "1982-03-12",
+    "joining_date": "2012-03-12",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Ms. Kavya Reddy",
+    "designation": "Assistant Professor",
+    "email": "kavya.reddy@civil.edu.in",
+    "phone": "+91-9876543207",
+    "gender": "Female",
+    "dob": "1983-04-13",
+    "joining_date": "2013-04-13",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Dr. Surya Prakash",
+    "designation": "Trainer",
+    "email": "surya.prakash@civil.edu.in",
+    "phone": "+91-9876543206",
+    "gender": "Male",
+    "dob": "1984-05-14",
+    "joining_date": "2014-05-14",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Ms. Sneha Iyer",
+    "designation": "Head",
+    "email": "sneha.iyer@civil.edu.in",
+    "phone": "+91-9876543205",
+    "gender": "Female",
+    "dob": "1985-06-15",
+    "joining_date": "2015-06-15",
+    "photo": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Mr. Naveen Raj",
+    "designation": "Professor",
+    "email": "naveen.raj@civil.edu.in",
+    "phone": "+91-9876543204",
+    "gender": "Male",
+    "dob": "1986-07-16",
+    "joining_date": "2016-07-16",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Ms. Divya Mohan",
+    "designation": "Associate Professor",
+    "email": "divya.mohan@civil.edu.in",
+    "phone": "+91-9876543203",
+    "gender": "Female",
+    "dob": "1987-08-17",
+    "joining_date": "2017-08-17",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Dr. Ashwin Menon",
+    "designation": "Assistant Professor",
+    "email": "ashwin.menon@civil.edu.in",
+    "phone": "+91-9876543202",
+    "gender": "Male",
+    "dob": "1988-09-18",
+    "joining_date": "2018-09-18",
+    "photo": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Ms. Meenakshi S",
+    "designation": "Trainer",
+    "email": "meenakshi.s@civil.edu.in",
+    "phone": "+91-9876543201",
+    "gender": "Female",
+    "dob": "1989-01-10",
+    "joining_date": "2019-01-10",
+    "photo": "https://randomuser.me/api/portraits/women/10.jpg"
+  }
+]

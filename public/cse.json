@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ramesh Kumar",
+    "designation": "Head",
+    "email": "ramesh.kumar@csecollege.edu.in",
+    "phone": "+91-9876543210",
+    "gender": "Male",
+    "dob": "1975-03-15",
+    "joining_date": "2005-06-01",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Priya Sharma",
+    "designation": "Professor",
+    "email": "priya.sharma@csecollege.edu.in",
+    "phone": "+91-9865432109",
+    "gender": "Female",
+    "dob": "1978-07-22",
+    "joining_date": "2008-09-10",
+    "photo": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mr. Arjun Mehta",
+    "designation": "Associate Professor",
+    "email": "arjun.mehta@csecollege.edu.in",
+    "phone": "+91-9854321098",
+    "gender": "Male",
+    "dob": "1982-11-05",
+    "joining_date": "2012-01-20",
+    "photo": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ms. Kavya Reddy",
+    "designation": "Assistant Professor",
+    "email": "kavya.reddy@csecollege.edu.in",
+    "phone": "+91-9843210987",
+    "gender": "Female",
+    "dob": "1987-02-14",
+    "joining_date": "2014-08-25",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mr. Surya Prakash",
+    "designation": "Assistant Professor",
+    "email": "surya.prakash@csecollege.edu.in",
+    "phone": "+91-9832109876",
+    "gender": "Male",
+    "dob": "1985-12-30",
+    "joining_date": "2015-07-01",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Sneha Iyer",
+    "designation": "Associate Professor",
+    "email": "sneha.iyer@csecollege.edu.in",
+    "phone": "+91-9821098765",
+    "gender": "Female",
+    "dob": "1981-05-18",
+    "joining_date": "2010-02-12",
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mr. Naveen Raj",
+    "designation": "Trainer",
+    "email": "naveen.raj@csecollege.edu.in",
+    "phone": "+91-9810987654",
+    "gender": "Male",
+    "dob": "1990-09-09",
+    "joining_date": "2018-06-15",
+    "photo": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ms. Divya Mohan",
+    "designation": "Assistant Professor",
+    "email": "divya.mohan@csecollege.edu.in",
+    "phone": "+91-9809876543",
+    "gender": "Female",
+    "dob": "1991-04-28",
+    "joining_date": "2019-01-05",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mr. Ashwin Menon",
+    "designation": "Trainer",
+    "email": "ashwin.menon@csecollege.edu.in",
+    "phone": "+91-9798765432",
+    "gender": "Male",
+    "dob": "1993-08-12",
+    "joining_date": "2020-03-18",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Meenakshi S.",
+    "designation": "Professor",
+    "email": "meenakshi.s@csecollege.edu.in",
+    "phone": "+91-9787654321",
+    "gender": "Female",
+    "dob": "1976-10-02",
+    "joining_date": "2007-11-30",
+    "photo": "https://randomuser.me/api/portraits/women/5.jpg"
+  }
+]
