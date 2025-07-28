@@ -38,7 +38,7 @@ const NavbarUser = () => {
                 <div className="list">
                     <ul className="ul">
                         <li className="notify" onClick={() => setShowStatus(!showStatus)}>📋 Status</li>
-                        <li className="login" onClick={() => {
+                        <li className="requestB" onClick={() => {
                             router.push("/RequestBox")
                         }}>New Request</li>
                         <li className="logout" onClick={() => {
@@ -71,7 +71,7 @@ const NavbarUser = () => {
                     {error && <div style={{ color: 'red', marginBottom: '10px' }}>{error}</div>}
                     
                     {requests.length === 0 && !loading && staffName && (
-                        <div>No leave requests found for "{staffName}"</div>
+                        <div>No leave requests found for &quot;{staffName}&quot;</div>
                     )}
                     
                     {requests.map((req) => (
@@ -100,7 +100,7 @@ const NavbarUser = () => {
             )}
 
             <div className="register-request" onClick={() => {
-                router.push("/RequestBox")
+                router.push("/StaffLogin")
             }}>
                 <h1>Click here to Submit a New Leave Request!</h1>
             </div>
